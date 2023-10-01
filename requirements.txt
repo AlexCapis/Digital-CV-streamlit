@@ -1,0 +1,5 @@
+# Para este repositorio únicamente haremos uso de las bibliotecas:
+Pillow== 9.5.0
+streamlit== 2.0.1
+
+#  La versión de la biblioteca pathlib, no necesitaremos hacerlo directamente porque pathlib es parte de la biblioteca estándar de Python y no tiene una versión independiente
