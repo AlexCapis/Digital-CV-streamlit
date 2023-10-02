@@ -10,13 +10,34 @@ A través de esta plantilla, podrás resaltar y obtener mejores resultados en tu
 
 ## 👀 Visualización
 
-Aquí tienes el enlace donde puedes explorarlo por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla para descargarlo. Haz clic en [Currículum Digital]().
+Aquí tienes el enlace donde puedes explorarlo por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla para descargarlo. Haz clic en [Currículum Digital](https://cv-alex-marza.streamlit.app/).
 
 ## 🌟 Demostración del CV
 
-![Demo1](./assets/.png?raw=true "CV parte 1")
-![Demo2](./assets/.png?raw=true "CV parte 2")
-![Demo3](./assets/.png?raw=true "CV parte 3")
+A continuación, comparto mi currículum digital dividido en partes y presentado en forma de imágenes. Cada una muestran las distintas secciones de mi currículum para una visión más detallada.
+
+<details>
+<summary>CV Parte 1</summary>
+<img src="./assets/CV_parte1.png?raw=true" alt="CV Parte 1" width="600"/>
+</details>
+
+<details>
+<summary>CV Parte 2</summary>
+<img src="./assets/CV_parte2.png?raw=true" alt="CV Parte 2" width="600"/>
+</details>
+
+<details>
+<summary>CV Parte 3</summary>
+<img src="./assets/CV_parte3.png?raw=true" alt="CV Parte 3" width="600"/>
+</details>
+
+<details>
+<summary>CV Parte 4</summary>
+<img src="./assets/CV_parte4.png?raw=true" alt="CV Parte 4" width="600"/>
+</details>
+
+
+
 
 ## ⚙️ Requisitos
 
@@ -24,7 +45,7 @@ Aquí tienes el enlace donde puedes explorarlo por ti mismo y ver cómo cualquie
 
 ```
 Pillow== 9.5.0
-streamlit== 2.0.1
+streamlit== 1.12.0
 ```
 
 - Para compartir tu repositorio y permitir que otros lo visualicen, sigue los pasos en esta [página de streamlit](https://streamlit.io/cloud) para enlazar tu cuenta de Github. Hay un breve y sencillo tutorial en esa página para ayudarte a crear fácilmente tu enlace y permitir que otros vean tu contenido de streamlit.
@@ -56,5 +77,6 @@ Puedes acceder a mis [links pages]() para contactarme de manera rápida y sencil
 
 ## 🙏 Agradecimientos
 
-Espero que esta herramienta te sea útil para alcanzar tus metas. Recuerda, con creatividad y constancia, ¡los resultados llegarán! Si encuentras algún error o tienes sugerencias para mejorar, estoy completamente abierto a que te pongas en contacto conmigo a través de [correo](alexmarzadatascience@gmail.com). Espero que esta herramienta sea de gran utilidad.
+Quisiera expresar mi agradecimiento por el valioso contenido proporcionado por Sven, un Data Analyst de Alemania que crea contenido de alta calidad en [Yotube](https://www.youtube.com/@CodingIsFun) con explicaciones claras y concisas. Les animo a explorar su contenido y aplicarlo en sus propios proyectos.
 
+Espero que esta herramienta os resulte beneficiosa para alcanzar vuestros objetivos. Recuerden, con creatividad y dedicación, ¡los resultados llegarán! Si encuentran algún error o tienen sugerencias para mejorar, estoy completamente abierto a recibir sus comentarios a través de [correo electrónico](alexmarzadatascience@gmail.com). Espero que esta herramienta les sea de gran utilidad

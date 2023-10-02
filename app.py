@@ -18,16 +18,15 @@ NAME = "Alex Marzá Manuel"
 DESCRIPTION = """
 Junior Data Scientist, ayudo a las empresas a tomar decisiones basadas en datos.
 """
-# EMAIL = "alexmarzadatascience@gmail.com"
+EMAIL = "alexmarzadatascience@gmail.com"
 SOCIAL_MEDIA = {
     "WhatsApp": "http://wa.me/34695802887?text=%C2%A1Hola!%20He%20revisado%20su%20perfil%20y%20parece%20encajar%20con%20lo%20que%20estamos%20buscando.%20Por%20ello,%20desde%20nuestro%20departamento%20de%20RRHH%20nos%20gustar%C3%ADa%20concertar%20una%20entrevista%20con%20usted%20para%20profundizar%20en%20el%20puesto%20laboral%20y%20conocernos%20mejor.%20%C2%A1Espero%20su%20respuesta!",
     "LinkedIn": "https://www.linkedin.com/in/alex-marza-data-science/",
     "GitHub": "https://github.com/AlexCapis",
     "Page-Links": " ",
-    "Email": "alexmarzadatascience@gmail.com"
 }
 PROJECTS = {
-    "🏆 Recursos Humanos Power BI - Investigación de los empleados,sueldos y evaluación": " ENLACE",
+    "🏆 Recursos Humanos Power BI - Investigación de los empleados, sueldos y evaluación": " ENLACE",
     "🏆 Indicadores Mundiales - Informe de población, mortalidad infantil y esperanza de vida":  " ENLACE ",
     "🏆 Venta de Videojuego Power BI - Análisis de ventas ": "ENLACE",
     "🏆 HEATLY - Aplicación web para olas de calor": " ENLACE",
@@ -61,7 +60,7 @@ with col2:
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-
+    st.write("📫", EMAIL)
 
 
 # --- LINKS SOCIAL MEDIA ---
@@ -76,22 +75,14 @@ st.subheader("😊 Sobre Mí")
 st.write("---")
 st.write(
     """
-- ✔️ Curiosidad insaciable por los datos
-- ✔️ Gran capacidad analítica y creatividad en la búsqueda de soluciones
-- ✔️ Conocimientos y experiencia práctica en Python y Excel
-- ✔️ Buena comprensión de los principios estadísticos y sus respectivas aplicaciones
+- ✔️ Curiosidad insaciable por los datos buscando contribuir al éxito con insights.
+- ✔️ Gran capacidad analítica y creatividad en la búsqueda de soluciones.
+- ✔️ Conocimientos y experiencia práctica en Python y Excel.
+- ✔️ Buena comprensión de los principios estadísticos y sus respectivas aplicaciones.
 - ✔️ Excelente capacidad de trabajo en equipo y gran sentido de la iniciativa en las tareas.
-""")
-
-st.write("---")
-st.write( """
-- ✔️ Poseo una curiosidad insaciable por los datos, impulsándome a explorar e indagar en busca de perspicacia.
-- ✔️ Demuestro una fuerte capacidad analítica y creatividad para abordar desafíos, siempre buscando soluciones innovadoras.
-- ✔️ Cuento con conocimientos sólidos y experiencia práctica en Python y Excel, potenciando mi habilidad para manejar y analizar datos de manera eficiente.
-- ✔️ Poseo una sólida comprensión de los principios estadísticos y su aplicación práctica, permitiéndome obtener valiosos insights de los datos.
-- ✔️ Destaco por mi excelente habilidad para colaborar en equipo y mi marcado espíritu proactivo en la ejecución de tareas, lo que me permite contribuir de manera efectiva en entornos laborales.
 """
 )
+
 
 # --- SKILLS ---
 st.write('\n')
@@ -112,19 +103,17 @@ st.write(
 st.write('\n')
 st.subheader("🎓 Educación")
 st.write("---")
-st.write(
-    """
-- ✔️ UJI- GRADO DE PUBLICIDAD Y RELACIONES PÚBLICAS
-    - Septiembre 2014 - Junio 2015
+st.write("""
+- ✔️ UJI- GRADO DE PUBLICIDAD Y RELACIONES PÚBLICAS  
+  Septiembre 2014 - Junio 2015
 
-- ✔️ UB-UPO-USAL - GRADO DE CRIMINOLOGÍA
-    - Septiembre 2015 - Enero 2020
+- ✔️ UB-UPO-USAL - GRADO DE CRIMINOLOGÍA  
+  Septiembre 2015 - Enero 2020
 
-- ✔️ THE BRIDGE- BOOTCAMP DATA SCIENCE
-    - Abril 2023 - Agosto 2023
+- ✔️ THE BRIDGE- BOOTCAMP DATA SCIENCE  
+  Abril 2023 - Agosto 2023
+""")
 
-"""
-)
 
 # --- CURSOS---
 st.write('\n')
@@ -132,13 +121,13 @@ st.subheader("📝 Cursos y Certificaciones")
 st.write("---")
 st.write(
     """
-- ✔️ Power BI- Análisis de datos y Business Intelligence(22h)
-- ✔️ SQL- Bases de datos (20h)
+- ✔️ Power BI- Análisis de Datos y Business Intelligence (22h)
+- ✔️ SQL- Bases de Datos (20h)
 - ✔️ Elementos de Inteligencia Artificial (50h)
 - ✔️ Machine Learning para Data Science (50h)
-- ✔️ Trading algorítmico (50h)
+- ✔️ Trading Algorítmico (50h)
 - ✔️ Método Harvard de Negociación (50h)
-- ✔️ Introducción al análisis técnico (25h)
+- ✔️ Introducción al Análisis Técnico (25h)
 """
 )
 
@@ -154,11 +143,11 @@ st.write("🚧", "**Operador de Mercados Financieros**")
 st.write("Septiembre 2021 - Septiembre 2023")
 st.write(
     """
-- ►  Utilización de datos para informar decisiones financieras.
+- ►  Utilización de datos para informar sobre decisiones financieras.
 - ►  Evaluación y mitigación de riesgos en operaciones financieras.
 - ►  Logro de un crecimiento del '47%' de inversión personal en los últimos 12 meses.
 - ►  Diseño y ejecución de estrategias efectivas de inversión.
-- ►  Capacidad de mantener la calma y decidir con claridad bajo presión
+- ►  Capacidad de mantener la calma y decidir con claridad bajo presión.
 - ►  Aplicación de análisis gráfico, patrones e indicadores para la toma de decisiones.
 - ►  Evaluación de activos financieros y análisis de tendencias para optimizar rendimientos.
 """
@@ -172,14 +161,10 @@ st.write("Mayo 2019 - Marzo 2020")
 st.write(
     """
 
-- ✔️ Botones, Hilton Brighton Metropole (
-    - ► Mayo 2019- Junio 2019
-
+- ✔️ Botones, Hilton Brighton Metropole
 - ✔️ Ayudante de cocina, Brighton Palace Pear
-    - ► Junio 2019- Septiembre 2019
-
 - ✔️ Camarero, Brighton PRYZM
-    - ► septiembre 2019- Marzo 2019
+    
 
 """
 )
