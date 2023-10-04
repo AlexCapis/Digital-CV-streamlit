@@ -26,12 +26,12 @@ SOCIAL_MEDIA = {
     "Page-Links": "https://alex-links-page.streamlit.app/",
 }
 PROJECTS = {
-    "🏆 Recursos Humanos Power BI - Investigación de los empleados, sueldos y evaluación": " ENLACE",
-    "🏆 Indicadores Mundiales - Informe de población, mortalidad infantil y esperanza de vida":  " ENLACE ",
-    "🏆 Venta de Videojuego Power BI - Análisis de ventas ": "ENLACE",
-    "🏆 HEATY - Aplicación web para olas de calor": " ENLACE",
-    "🏆 PASSODI - Generador de contraseñas automático": "https://generador-claves.streamlit.app/",
-    "🏆 Corazón Digital - Prediciendo enfermedades cardíacas con machine learning": " ENLACE"
+    "🏆 Recursos Humanos Power BI - Investigación de los empleados, sueldos y evaluación": " https://powerbi-projects.streamlit.app/",
+    "🏆 Indicadores Mundiales - Informe de población, mortalidad infantil y esperanza de vida":  " https://powerbi-projects.streamlit.app/ ",
+    "🏆 Venta de Videojuego Power BI - Análisis de ventas ": "https://powerbi-projects.streamlit.app/",
+    "🏆 HEATY - Aplicación web para olas de calor": " https://heaty-aplicacion-web.streamlit.app/",
+    "🏆 PASSODI - Generador de contraseñas automático": "https://pasodi-contrasenas.streamlit.app/",
+    "🏆 Corazón Digital - Prediciendo enfermedades cardíacas con machine learning": "https://corazon-digital.streamlit.app/ "
 }
 
 
