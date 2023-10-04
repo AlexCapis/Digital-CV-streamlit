@@ -10,7 +10,7 @@ A través de esta plantilla, podrás resaltar y obtener mejores resultados en tu
 
 ## 👀 Visualización
 
-Aquí tienes el enlace donde puedes explorarlo por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla para descargarlo. Haz clic en [Currículum Digital](https://cv-alex-marza.streamlit.app/).
+Aquí tienes el enlace donde puedes explorarlo por ti mismo y ver cómo cualquier persona puede acceder a él de forma rápida y sencilla para descargarlo. Haz clic en [Currículum Digital](https://cv-digital-alex.streamlit.app/~/+/).
 
 ## 🌟 Demostración del CV
 
@@ -41,12 +41,7 @@ A continuación, comparto mi currículum digital dividido en partes y presentado
 
 ## ⚙️ Requisitos
 
-- Asegúrate de instalar las dependencias necesarias utilizando pip install. Para este repositorio, solo haremos uso de las siguientes bibliotecas:
-
-```
-Pillow== 9.5.0
-streamlit== 1.12.0
-```
+- Asegúrate de instalar las dependencias necesarias utilizando pip install seguido del nombre de la libreria que desees instalar para este caso "streamlit" y "Pillow".
 
 - Para compartir tu repositorio y permitir que otros lo visualicen, sigue los pasos en esta [página de streamlit](https://streamlit.io/cloud) para enlazar tu cuenta de Github. Hay un breve y sencillo tutorial en esa página para ayudarte a crear fácilmente tu enlace y permitir que otros vean tu contenido de streamlit.
 

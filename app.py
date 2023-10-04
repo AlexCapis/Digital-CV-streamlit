@@ -29,7 +29,7 @@ PROJECTS = {
     "🏆 Recursos Humanos Power BI - Investigación de los empleados, sueldos y evaluación": " ENLACE",
     "🏆 Indicadores Mundiales - Informe de población, mortalidad infantil y esperanza de vida":  " ENLACE ",
     "🏆 Venta de Videojuego Power BI - Análisis de ventas ": "ENLACE",
-    "🏆 HEATLY - Aplicación web para olas de calor": " ENLACE",
+    "🏆 HEATY - Aplicación web para olas de calor": " ENLACE",
     "🏆 PASSODI - Generador de contraseñas automático": "https://generador-claves.streamlit.app/",
     "🏆 Corazón Digital - Prediciendo enfermedades cardíacas con machine learning": " ENLACE"
 }
