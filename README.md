@@ -72,6 +72,6 @@ Puedes acceder a mis [links page](https://alex-links-page.streamlit.app/) para c
 
 ## 🙏 Agradecimientos
 
-Quisiera expresar mi agradecimiento por el valioso contenido proporcionado por Sven, un Data Analyst de Alemania que crea contenido de alta calidad en [Yotube](https://www.youtube.com/@CodingIsFun) con explicaciones claras y concisas. Les animo a explorar su contenido y aplicarlo en sus propios proyectos.
+Quisiera expresar mi agradecimiento por el valioso contenido proporcionado por Sven, un Data Analyst de Alemania que crea contenido de alta calidad en [Youtube](https://www.youtube.com/@CodingIsFun) con explicaciones claras y concisas. Les animo a explorar su contenido y aplicarlo en sus propios proyectos.
 
 Espero que esta herramienta os resulte beneficiosa para alcanzar vuestros objetivos. Recuerden, con creatividad y dedicación, ¡los resultados llegarán! Si encuentran algún error o tienen sugerencias para mejorar, estoy completamente abierto a recibir sus comentarios a través de [correo electrónico](alexmarzadatascience@gmail.com). Espero que esta herramienta les sea de gran utilidad.
