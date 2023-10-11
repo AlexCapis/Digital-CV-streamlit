@@ -6,7 +6,7 @@ from PIL import Image
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "CV_ALEX_MARZA_MANUEL.pdf"
+resume_file = current_dir / "assets" / "CV_ALEX_MARZA.pdf"
 image_alex = current_dir / "assets" / "alex.png"
 
 
@@ -29,6 +29,7 @@ PROJECTS = {
     "🏆 Recursos Humanos Power BI - Investigación de los empleados, sueldos y evaluación": "https://powerbi-projects.streamlit.app/",
     "🏆 Indicadores Mundiales - Informe de población, mortalidad infantil y esperanza de vida":  "https://powerbi-projects.streamlit.app/",
     "🏆 Venta de Videojuego Power BI - Análisis de ventas ": "https://powerbi-projects.streamlit.app/",
+    "🏆 Finanzas Power BI - Evaluación económica detallada": "https://powerbi-projects.streamlit.app/",
     "🏆 HEATY - Aplicación web para olas de calor": " https://heaty-aplicacion-web.streamlit.app/",
     "🏆 PASSODI - Generador de contraseñas automático": "https://pasodi-contrasenas.streamlit.app/",
     "🏆 Corazón Digital - Prediciendo enfermedades cardíacas con machine learning": "https://corazon-digital.streamlit.app/ "
@@ -128,6 +129,7 @@ st.write(
 - ✔️ Trading Algorítmico (50h)
 - ✔️ Método Harvard de Negociación (50h)
 - ✔️ Introducción al Análisis Técnico (25h)
+- ✔️ Git y GitHub (20h)
 """
 )
 
