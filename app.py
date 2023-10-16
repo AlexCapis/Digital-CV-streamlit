@@ -123,13 +123,14 @@ st.write("---")
 st.write(
     """
 - ✔️ Power BI- Análisis de Datos y Business Intelligence (22h)
-- ✔️ SQL- Bases de Datos (20h)
+- ✔️ SQL- Bases de Datos (40h)
 - ✔️ Elementos de Inteligencia Artificial (50h)
 - ✔️ Machine Learning para Data Science (50h)
 - ✔️ Trading Algorítmico (50h)
 - ✔️ Método Harvard de Negociación (50h)
 - ✔️ Introducción al Análisis Técnico (25h)
 - ✔️ Git y GitHub (20h)
+- ✔️ Excel avanzado (100h)
 """
 )
 
@@ -158,7 +159,7 @@ st.write(
 
 # --- Trabajo 2
 st.write('\n')
-st.write("🚧", " **Trabajos en Brighton**")
+st.write("🚧", " **Experiencia en el extranjero (Brighton-Inglaterra)**")
 st.write("Mayo 2019 - Marzo 2020")
 st.write(
     """
